@@ -1,0 +1,7 @@
+openai
+streamlit 
+markitdown
+python-dotenv
+azure-identity
+PyMuPDF
+azure-cognitiveservices-speech
