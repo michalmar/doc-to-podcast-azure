@@ -454,4 +454,4 @@ def GeneratePodcastFromUrl(url, callback = None):
 # main func
 if __name__ == "__main__":
     # only for debugging
-    GeneratePodcastFromUrl("../data/o2_chytra_skola1.pdf")
+    GeneratePodcastFromUrl("../data/test.pdf")
